@@ -1,14 +1,14 @@
  project:
   logo_url: "https://raw.githubusercontent.com/cncf/artwork/master/projects/falco/horizontal/color/falco-horizontal-color.svg?sanitize=true"
   display_name: Falco
-  sub_title: Container Native Runtime Security
+  sub_title: Container Security
   project_url: "https://github.com/falcosecurity/falco"
-  stable_ref: "v0.18.0"
+  stable_ref: "0.18.0"
   head_ref: "master"
   ci_system:
     -
-      ci_system_type: "travis-ci"
-      ci_project_url: "https://example.com/falcosecurity/falco"  # can be anything for citest
+      ci_system_type: "travis-ci-com"
+      ci_project_url: "https://travis-ci.com/falcosecurity/falco"
       ci_project_name: "falcosecurity/falco"
       arch:
         - amd64
