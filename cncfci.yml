@@ -3,12 +3,12 @@
   display_name: Falco
   sub_title: Container Security
   project_url: "https://github.com/falcosecurity/falco"
-  stable_ref: "v0.18.0"
+  stable_ref: "0.18.0"
   head_ref: "master"
   ci_system:
     -
-      ci_system_type: "travis-ci"
-      ci_project_url: "https://travis-ci.com/falcosecurity/falco" 
+      ci_system_type: "travis-ci-com"
+      ci_project_url: "https://travis-ci.com/falcosecurity/falco"
       ci_project_name: "falcosecurity/falco"
       arch:
         - amd64
