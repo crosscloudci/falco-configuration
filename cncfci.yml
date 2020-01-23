@@ -7,8 +7,8 @@
   head_ref: "master"
   ci_system:
     -
-      ci_system_type: "travis-ci-com"
-      ci_project_url: "https://travis-ci.com/falcosecurity/falco"
+      ci_system_type: "circle-ci"
+      ci_project_url: "https://circleci.com/gh/falcosecurity/falco"
       ci_project_name: "falcosecurity/falco"
       arch:
         - amd64
